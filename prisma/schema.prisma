@@ -1,0 +1,20 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  
+}
+
+
+model Order {
+  id        Int      @id @default(autoincrement())
+  orderId   String   @unique                // your own business ID (human readable)
+  userId    String
+  items     Json
+  total     Float
+  status    String   @default("PENDING")
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
