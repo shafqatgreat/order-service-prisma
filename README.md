@@ -150,7 +150,7 @@ Upcoming updates will include:
 
 This code corresponds to the **latest YouTube episode** in the series:
 
-> *(Link will be added once published)*
+> *((https://youtu.be/d12AfRgb_MQ))*
 
 ---
 
