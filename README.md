@@ -148,7 +148,7 @@ Upcoming updates will include:
 
 ## 📺 Video Reference
 
-This code corresponds to the **latest YouTube episode** in the series:
+This code corresponds to the **latest YouTube episode [Build a Complete Order Microservice with Prisma 7, Node.js & PostgreSQL]** in the series:
 
 > *((https://youtu.be/d12AfRgb_MQ))*
 
