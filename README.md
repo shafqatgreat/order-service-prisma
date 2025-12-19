@@ -2,11 +2,11 @@
 
 This repository contains the **latest code update** from the ongoing **Node.js Microservices: Zero to Cloud** series.
 
-In this episode, we focus on **connecting a Node.js service with PostgreSQL using Prisma ORM**, following **production-grade structure and best practices**.
+In this code, we focus on **connecting a Node.js service with PostgreSQL using Prisma ORM**, following **production-grade structure and best practices**.
 
 ---
 
-## 📌 What This Episode Covers
+## 📌 What This Code Covers
 
 In this update, we implemented and explained:
 
